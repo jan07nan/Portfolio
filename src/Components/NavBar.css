@@ -1,0 +1,10 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.nav a{
+    text-decoration: none;   
+    margin: 30px; 
+    color: black;
+}
