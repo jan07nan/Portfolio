@@ -1,0 +1,22 @@
+/* .body1{
+    margin-top: 140px;
+} */
+.div1{
+    font-size: 25px;
+    color: rgb(7, 7, 7);
+    text-decoration: underline rgb(219, 159, 28) 5px;
+    text-underline-offset: 12px;
+}
+.div2{
+    font-size: 30px;
+    font-weight: 500;
+    width: 600px;
+}
+.aboutimg{
+    width: 700px;
+    height: 500px;
+}
+.div3{
+    float:right;
+    margin-top: -500px;
+}

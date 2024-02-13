@@ -1,0 +1,30 @@
+
+.title1{
+    font-size: 25px;
+    color: rgb(7, 7, 7);
+    text-decoration: underline rgb(249,163,28) 5px;
+    text-underline-offset: 12px;
+    margin-top: 40px;
+}
+.body2{
+    width:47%;
+    float: left;
+}
+.body3{
+    width: 47%;
+    float: right; 
+}
+.cont1{
+    font-size: 20px;
+}
+.hardskills{
+    font-size: 20px;   
+    color: rgb(249,163,28); 
+    margin-top: 350px;
+    padding-top: 40px;
+}
+.softskills{
+    font-size: 20px;
+    color: rgb(249,163,28); 
+    margin-top: 30px;
+}
