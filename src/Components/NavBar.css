@@ -1,10 +1,27 @@
-.container1{
-    display:flex;
-    justify-content: space-between;
-    margin-top: 50px;
+.container1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
 }
-.nav a{
-    text-decoration: none;   
-    margin: 30px; 
-    color: black;
+.nav {
+  display: flex;
+  flex-direction: row;
+}
+.nav a {
+  text-decoration: none;
+  margin: 10px;
+  color: black;
+}
+
+@media screen and (max-width: 500px) {
+  .container1 {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+  .nav {
+    display: flex;
+    flex-direction: column;
+  }
 }
